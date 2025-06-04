@@ -1,5 +1,3 @@
-# Instagram_Downloader
-Instagram Downloader. Personal account organiser w.embeded metadata/labels
 # Instagram Backup and Organization Application
 
 ## Objective
@@ -72,19 +70,13 @@ InstagramBackup/
 1. User runs application.
 2. Authentication with Instagram via automation.
 3. Application scans and displays estimated download size.
-4. User confirms or aborts the operation.
-5. User selects destination directory.
+4. User selects destination directory.
+5. User confirms or aborts the operation.
 6. Data download and organization commence.
 7. User can pause or cancel download at any stage.
 
----
 
-## Next Steps
 
-Upon confirmation, we will begin implementation by creating and refining the preliminary scanning feature, setting up automated scraping scripts, embedding metadata directly into media files, and ensuring user controls for pause and cancel functionalities.
 
----
 
-## Questions?
 
-If you have any queries regarding this document or workflow, please confirm or indicate adjustments.
